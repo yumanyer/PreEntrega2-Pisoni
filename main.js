@@ -83,3 +83,4 @@ function agregarHelado(){
     console.table(lista)
 
 }
+
